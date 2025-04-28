@@ -554,6 +554,7 @@ List of some useful free online tools and sites
 - [**Remove Multiple Spaces** - (*Remove Multiple Spaces Online Tool*)](https://textedit.tools/remove-multiple-spaces)
 - [**Slug Generator** - (*Coverts a URL into a URL slug*)](https://www.appdevtools.com/slug-generator)
 - [**Slugify Text** - (*Slugify Text Tool*)](https://textedit.tools/slugify)
+- [**String Length Online** - (Calculate String Length Tool)](https://stringlengthonline.com/)
 - [**Telerik Code Converter** - (*Converts between from/to C# & VB.NET*)](https://converter.telerik.com/)
 - [**Text Capitalize** - (*Text Capitalizer Online*)](https://textedit.tools/capitalize)
 - [**Text Editor** - (*Write text in this online editor with your prefer syntax*)](https://www.appdevtools.com/text-editor)
